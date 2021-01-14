@@ -1,4 +1,6 @@
 """
+A extensible Python framework for interacting with SimPRO's REST API.
+Currently in draft state.
 TODO: Investigate how to change all handling of URLs into a Path like objects.
 """
 import os
